@@ -17,7 +17,7 @@ npm i
 
 to install all the required libraries.
 
-3. Change the "env.example" file to ".env" and enter the various variables (if needed). Delete aa variaables which are not needed.
+3. Change the "env.example" file to ".env" and enter the various variables (if needed). Delete the variables which are not needed.
    Default values for various variables, used in the project, can be found under config->default.json.
 
 4. In the end, after doing all that, you can write in the command line:
